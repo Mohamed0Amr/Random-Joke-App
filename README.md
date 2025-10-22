@@ -15,7 +15,7 @@ A lightweight iOS app built with **SwiftUI** that fetches random jokes from a pu
 - JSONDecoder
 
 ## 📸 Screenshot
-*![Uploading simulator_screenshot_9D2A5A68-4C66-4FC1-8A99-0AC4FAEDCCBF.png…]()*
+![Uploading simulator_screenshot_9D2A5A68-4C66-4FC1-8A99-0AC4FAEDCCBF.png…]()
 
 
 ## 🔗 API
